@@ -4,11 +4,8 @@ import { Link } from 'react-router-dom';
 import { withRouter } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCoins, faChartLine} from '@fortawesome/free-solid-svg-icons';
-const Header = (props) => { //{}
+const Header = (props) => {
     const {  history } = props;  
-    // const handleHistoryPush = currencyId => {
-    //     history.push(currencyId)
-    // }
     return (
             <div className="Header">
                 <Link to="/">

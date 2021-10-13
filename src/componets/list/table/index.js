@@ -15,6 +15,7 @@ const Table = (props) => {
                 <strong> CryptoCurrencies </strong>some details
                 <FontAwesomeIcon icon={faArrowAltCircleDown} size="1x" color="#F9B81F"/>
             </h2>
+            <p>(Click on each item to see full information)</p>
             <div className="Table-container" id="coin-table">
                 <table className="Table">
                         <thead className="Table-head">

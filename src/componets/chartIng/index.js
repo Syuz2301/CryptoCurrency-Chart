@@ -70,7 +70,6 @@ class Charting extends Component {
         <Graph 
             currencyName={currencyName}
         />
-      
         </>
         )
     }

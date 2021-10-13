@@ -10,7 +10,6 @@
     font-weight: 300;
     margin-top: 150px;
     letter-spacing: 2px;
-    padding-bottom: 30px;
     text-shadow: rgb(33 33 33 / 20%) 0px 1px 0px, rgb(0 0 0 / 93%) 0px 1px 1px;
   }
   
@@ -22,6 +21,13 @@
     border-collapse: collapse;
     border-spacing: 0;
     
+  }
+  p {
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    padding-bottom: 50px;
+    text-shadow: rgb(33 33 33 / 20%) 0px 1px 0px, rgb(0 0 0 / 93%) 0px 1px 1px;
   }
   
   .Table-head {
