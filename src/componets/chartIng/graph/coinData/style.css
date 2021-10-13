@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.coindata-inner {
+    display: flex;
+    padding: 50px 30px;
+    margin: 50px auto;
+    max-width: 1200px;
+    justify-content: space-between;
+    border: 1px solid #9cb3c9;
+    background-color: rgb(162, 197, 197);
+    align-items: center;
+    text-align: center;
+}
+.colums-heading {
+    font-size: 12px;
+    color: #0f273d;
+    text-transform: capitalize;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+.colums-data {
+    padding: 10px;
+    background-color: #171717;
+    color: #F9B81F;
+    font-weight: 800;
+}

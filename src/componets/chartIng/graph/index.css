@@ -1,0 +1,16 @@
+
+.chart-container{
+    /* text-align: center; */
+    width: 500px;
+    margin: 100px auto;
+}
+.chart-container .Detail-item{
+    font-size: 22px;
+}
+.chart-container select{
+    color: #9cb3c9;
+    border: 2px solid #DDDF0D;
+}
+.fix-div {
+    position: fixed;
+}

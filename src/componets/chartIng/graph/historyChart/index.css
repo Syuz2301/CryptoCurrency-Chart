@@ -1,0 +1,31 @@
+
+*{
+    box-sizing: border-box;
+}
+.chart-graph{
+    background-color: #ffffff;
+}
+.show-price{
+    width: 100px;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #0f273d;
+    border: 1px solid  white;
+    color: #03ca9b;
+}
+.coose-time {
+    padding: 5px 15px;
+    background-color: #0f273d;
+    color: #03ca9b;
+    margin-left: 5px;
+    border: 1px solid white;
+    margin: 10px 5px;
+}
+.coose-time:hover {
+    color: #F9B81F;
+}
+#myChart{
+    background-color: white;
+    height: 400px;
+    padding: 30px;
+}
